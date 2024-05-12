@@ -1,0 +1,5 @@
+# Team frontron
+
+|[![Sanghoon Kim](https://avatars.githubusercontent.com/u/110483588?v=4)](https://github.com/andongmin94)|[![Kyungbeom Kim범](https://avatars.githubusercontent.com/u/128280944?v=4)](https://github.com/dreamingbeom)|[![Sooji Pyeon](https://avatars.githubusercontent.com/u/139519997?v=4)](https://github.com/pyunsusie)|[![Junghwan Park](https://avatars.githubusercontent.com/u/128338647?v=4)](https://github.com/Nam4o)|[![Seunghwan Lim](https://avatars.githubusercontent.com/u/139419039?v=4)](https://github.com/Lim-seunghwan99)|[![Suhyeun Cho](https://avatars.githubusercontent.com/u/119795734?v=4)](https://github.com/chosuhyeon0812)|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[Sanghoon Kim](https://github.com/andongmin94)<br>FE|[Kyungbeom Kim](https://github.com/dreamingbeom)<br>FE|[Sooji Pyeon](https://github.com/pyunsusie)<br>BE|[Junghwan Park](https://github.com/Nam4o)<br>BE|[Seunghwan Lim](https://github.com/Lim-seunghwan99)<br>BE|[Suhyeun Cho](https://github.com/chosuhyeon0812)<br>BE|
