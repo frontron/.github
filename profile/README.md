@@ -134,7 +134,7 @@
 | ------------ | ---- | -------- |
 | 김상훈 | 팀장 <br /> Frontend | - 라이브러리 코어 개발 |
 | 김경범 | 팀원 <br /> Frontend | - 라이브러리 개발 및 Docs 개발 지원 |
-| 박정환 | 팀원 <br /> Backend | - SCI/CD 구축 및 백엔드 개발 |
+| 박정환 | 팀원 <br /> Backend | - CI/CD 구축 및 백엔드 개발 |
 | 임승환 | 팀원 <br /> Backend | - Showcase 프로젝트 개발 |
 | 조수현 | 팀원 <br /> Backend | - CI/CD 구축 및 백엔드 개발 |
 | 편수지 | 팀원 <br /> Frontend| - Docs 사이트 개발 |
