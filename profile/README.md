@@ -50,24 +50,24 @@
 
 ## 2-2. 서비스 아키텍처
   
-![image](./service-architecture.png)
+![image](https://github.com/frontron/.github/blob/main/profile/service-architecture.png)
 
 ------------------------------------------------------  
 
 # 3. 🦈 주요 산출물
 ------------------------------------------------------
   ## 3-1. create frontron
-![frontron1](./frontron1.png)
+![frontron1](https://github.com/frontron/.github/blob/main/profile/frontron1.png)
 
   - 프론트론 라이브러리 기반 템플릿 프로젝트 생성
 
   ## 3-2. install frontron
-![frontron2](./frontron2.png)
+![frontron2](https://github.com/frontron/.github/blob/main/profile/frontron2.png)
   
   - 프론트론 라이브러리
 
   ## 3-3. frontron docs
-![frontron3](./frontron3.png)
+![frontron3](https://github.com/frontron/.github/blob/main/profile/frontron3.png)
 
   - 프론트론 라이브러리 가이드 설명 웹 사이트
 
