@@ -51,7 +51,7 @@
 
 ## 2-2. 서비스 아키텍처
   
-![image](/frontend/public/service-architecture.png)
+![image](./service-architecture.png)
 
 ------------------------------------------------------  
 
